@@ -23,7 +23,6 @@ body {
 
 /* --- Page border --- */
 .page-border {
-  max-width: 800px;
   margin: 0 auto;
   border: 3px double #ffff00;
   padding: 20px;
